@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\Folder Operations Form\Folder Operations Form\bin\Debug\Folder Operations Form.exe.config
+C:\Users\ACER\source\repos\Folder Operations Form\Folder Operations Form\bin\Debug\Folder Operations Form.exe
+C:\Users\ACER\source\repos\Folder Operations Form\Folder Operations Form\bin\Debug\Folder Operations Form.pdb
+C:\Users\ACER\source\repos\Folder Operations Form\Folder Operations Form\obj\Debug\Folder Operations Form.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Folder Operations Form\Folder Operations Form\obj\Debug\Folder_Operations_Form.Form1.resources
+C:\Users\ACER\source\repos\Folder Operations Form\Folder Operations Form\obj\Debug\Folder_Operations_Form.Properties.Resources.resources
+C:\Users\ACER\source\repos\Folder Operations Form\Folder Operations Form\obj\Debug\Folder Operations Form.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Folder Operations Form\Folder Operations Form\obj\Debug\Folder Operations Form.exe
+C:\Users\ACER\source\repos\Folder Operations Form\Folder Operations Form\obj\Debug\Folder Operations Form.pdb

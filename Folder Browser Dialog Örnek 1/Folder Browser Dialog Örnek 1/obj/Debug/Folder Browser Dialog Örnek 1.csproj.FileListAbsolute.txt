@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\Folder Browser Dialog Örnek 1\Folder Browser Dialog Örnek 1\bin\Debug\Folder Browser Dialog Örnek 1.exe.config
+C:\Users\ACER\source\repos\Folder Browser Dialog Örnek 1\Folder Browser Dialog Örnek 1\bin\Debug\Folder Browser Dialog Örnek 1.exe
+C:\Users\ACER\source\repos\Folder Browser Dialog Örnek 1\Folder Browser Dialog Örnek 1\bin\Debug\Folder Browser Dialog Örnek 1.pdb
+C:\Users\ACER\source\repos\Folder Browser Dialog Örnek 1\Folder Browser Dialog Örnek 1\obj\Debug\Folder Browser Dialog Örnek 1.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Folder Browser Dialog Örnek 1\Folder Browser Dialog Örnek 1\obj\Debug\Folder_Browser_Dialog_Örnek_1.Form1.resources
+C:\Users\ACER\source\repos\Folder Browser Dialog Örnek 1\Folder Browser Dialog Örnek 1\obj\Debug\Folder_Browser_Dialog_Örnek_1.Properties.Resources.resources
+C:\Users\ACER\source\repos\Folder Browser Dialog Örnek 1\Folder Browser Dialog Örnek 1\obj\Debug\Folder Browser Dialog Örnek 1.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Folder Browser Dialog Örnek 1\Folder Browser Dialog Örnek 1\obj\Debug\Folder Browser Dialog Örnek 1.exe
+C:\Users\ACER\source\repos\Folder Browser Dialog Örnek 1\Folder Browser Dialog Örnek 1\obj\Debug\Folder Browser Dialog Örnek 1.pdb

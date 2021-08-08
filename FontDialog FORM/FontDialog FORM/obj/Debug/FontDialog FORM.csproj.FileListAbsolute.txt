@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\FontDialog FORM\FontDialog FORM\bin\Debug\FontDialog FORM.exe.config
+C:\Users\ACER\source\repos\FontDialog FORM\FontDialog FORM\bin\Debug\FontDialog FORM.exe
+C:\Users\ACER\source\repos\FontDialog FORM\FontDialog FORM\bin\Debug\FontDialog FORM.pdb
+C:\Users\ACER\source\repos\FontDialog FORM\FontDialog FORM\obj\Debug\FontDialog FORM.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\FontDialog FORM\FontDialog FORM\obj\Debug\FontDialog_FORM.Form1.resources
+C:\Users\ACER\source\repos\FontDialog FORM\FontDialog FORM\obj\Debug\FontDialog_FORM.Properties.Resources.resources
+C:\Users\ACER\source\repos\FontDialog FORM\FontDialog FORM\obj\Debug\FontDialog FORM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\FontDialog FORM\FontDialog FORM\obj\Debug\FontDialog FORM.exe
+C:\Users\ACER\source\repos\FontDialog FORM\FontDialog FORM\obj\Debug\FontDialog FORM.pdb
