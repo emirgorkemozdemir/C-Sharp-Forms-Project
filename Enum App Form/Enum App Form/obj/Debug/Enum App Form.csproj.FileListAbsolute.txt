@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\Enum App Form\Enum App Form\bin\Debug\Enum App Form.exe.config
+C:\Users\ACER\source\repos\Enum App Form\Enum App Form\bin\Debug\Enum App Form.exe
+C:\Users\ACER\source\repos\Enum App Form\Enum App Form\bin\Debug\Enum App Form.pdb
+C:\Users\ACER\source\repos\Enum App Form\Enum App Form\obj\Debug\Enum App Form.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Enum App Form\Enum App Form\obj\Debug\Enum_App_Form.Form1.resources
+C:\Users\ACER\source\repos\Enum App Form\Enum App Form\obj\Debug\Enum_App_Form.Properties.Resources.resources
+C:\Users\ACER\source\repos\Enum App Form\Enum App Form\obj\Debug\Enum App Form.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Enum App Form\Enum App Form\obj\Debug\Enum App Form.exe
+C:\Users\ACER\source\repos\Enum App Form\Enum App Form\obj\Debug\Enum App Form.pdb
