@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\SS APP FORM\SS APP FORM\bin\Debug\SS APP FORM.exe.config
+C:\Users\ACER\source\repos\SS APP FORM\SS APP FORM\bin\Debug\SS APP FORM.exe
+C:\Users\ACER\source\repos\SS APP FORM\SS APP FORM\bin\Debug\SS APP FORM.pdb
+C:\Users\ACER\source\repos\SS APP FORM\SS APP FORM\obj\Debug\SS APP FORM.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\SS APP FORM\SS APP FORM\obj\Debug\SS_APP_FORM.Form1.resources
+C:\Users\ACER\source\repos\SS APP FORM\SS APP FORM\obj\Debug\SS_APP_FORM.Properties.Resources.resources
+C:\Users\ACER\source\repos\SS APP FORM\SS APP FORM\obj\Debug\SS APP FORM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\SS APP FORM\SS APP FORM\obj\Debug\SS APP FORM.exe
+C:\Users\ACER\source\repos\SS APP FORM\SS APP FORM\obj\Debug\SS APP FORM.pdb
