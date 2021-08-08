@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\Hamburger app form\Hamburger app form\bin\Debug\Hamburger app form.exe.config
+C:\Users\ACER\source\repos\Hamburger app form\Hamburger app form\bin\Debug\Hamburger app form.exe
+C:\Users\ACER\source\repos\Hamburger app form\Hamburger app form\bin\Debug\Hamburger app form.pdb
+C:\Users\ACER\source\repos\Hamburger app form\Hamburger app form\obj\Debug\Hamburger app form.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Hamburger app form\Hamburger app form\obj\Debug\Hamburger_app_form.Form1.resources
+C:\Users\ACER\source\repos\Hamburger app form\Hamburger app form\obj\Debug\Hamburger_app_form.Properties.Resources.resources
+C:\Users\ACER\source\repos\Hamburger app form\Hamburger app form\obj\Debug\Hamburger app form.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Hamburger app form\Hamburger app form\obj\Debug\Hamburger app form.exe
+C:\Users\ACER\source\repos\Hamburger app form\Hamburger app form\obj\Debug\Hamburger app form.pdb

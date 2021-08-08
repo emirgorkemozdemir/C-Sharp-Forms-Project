@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hamburger app form", "Hamburger app form\Hamburger app form.csproj", "{11C94341-9E5A-487E-9CD3-3FDEEF7238A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C94341-9E5A-487E-9CD3-3FDEEF7238A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C94341-9E5A-487E-9CD3-3FDEEF7238A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C94341-9E5A-487E-9CD3-3FDEEF7238A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C94341-9E5A-487E-9CD3-3FDEEF7238A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA7BF1D-38DA-4E61-BB87-2C77AD189CAD}
+	EndGlobalSection
+EndGlobal

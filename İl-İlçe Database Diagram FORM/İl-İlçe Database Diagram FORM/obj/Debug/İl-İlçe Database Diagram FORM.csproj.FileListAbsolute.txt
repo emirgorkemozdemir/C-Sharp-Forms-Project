@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\İl-İlçe Database Diagram FORM\İl-İlçe Database Diagram FORM\bin\Debug\İl-İlçe Database Diagram FORM.exe.config
+C:\Users\ACER\source\repos\İl-İlçe Database Diagram FORM\İl-İlçe Database Diagram FORM\bin\Debug\İl-İlçe Database Diagram FORM.exe
+C:\Users\ACER\source\repos\İl-İlçe Database Diagram FORM\İl-İlçe Database Diagram FORM\bin\Debug\İl-İlçe Database Diagram FORM.pdb
+C:\Users\ACER\source\repos\İl-İlçe Database Diagram FORM\İl-İlçe Database Diagram FORM\obj\Debug\İl-İlçe Database Diagram FORM.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\İl-İlçe Database Diagram FORM\İl-İlçe Database Diagram FORM\obj\Debug\İl_İlçe_Database_Diagram_FORM.Form1.resources
+C:\Users\ACER\source\repos\İl-İlçe Database Diagram FORM\İl-İlçe Database Diagram FORM\obj\Debug\İl_İlçe_Database_Diagram_FORM.Properties.Resources.resources
+C:\Users\ACER\source\repos\İl-İlçe Database Diagram FORM\İl-İlçe Database Diagram FORM\obj\Debug\İl-İlçe Database Diagram FORM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\İl-İlçe Database Diagram FORM\İl-İlçe Database Diagram FORM\obj\Debug\İl-İlçe Database Diagram FORM.exe
+C:\Users\ACER\source\repos\İl-İlçe Database Diagram FORM\İl-İlçe Database Diagram FORM\obj\Debug\İl-İlçe Database Diagram FORM.pdb

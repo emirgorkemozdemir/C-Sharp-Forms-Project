@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\bin\Debug\FORM MEDIA PLAYER.exe.config
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\bin\Debug\FORM MEDIA PLAYER.exe
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\bin\Debug\FORM MEDIA PLAYER.pdb
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\bin\Debug\Interop.WMPLib.dll
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\obj\Debug\FORM MEDIA PLAYER.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\obj\Debug\Interop.WMPLib.dll
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\obj\Debug\FORM MEDIA PLAYER.csproj.ResolveComReference.cache
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\obj\Debug\FORM_MEDIA_PLAYER.Form1.resources
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\obj\Debug\FORM_MEDIA_PLAYER.Properties.Resources.resources
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\obj\Debug\FORM MEDIA PLAYER.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\obj\Debug\FORM MEDIA PLAYER.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\obj\Debug\FORM MEDIA PLAYER.exe
+C:\Users\ACER\source\repos\FORM MEDIA PLAYER\FORM MEDIA PLAYER\obj\Debug\FORM MEDIA PLAYER.pdb
