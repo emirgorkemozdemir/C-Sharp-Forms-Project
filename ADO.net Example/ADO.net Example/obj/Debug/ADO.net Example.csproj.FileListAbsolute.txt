@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\ADO.net Example\ADO.net Example\bin\Debug\ADO.net Example.exe.config
+C:\Users\ACER\source\repos\ADO.net Example\ADO.net Example\bin\Debug\ADO.net Example.exe
+C:\Users\ACER\source\repos\ADO.net Example\ADO.net Example\bin\Debug\ADO.net Example.pdb
+C:\Users\ACER\source\repos\ADO.net Example\ADO.net Example\obj\Debug\ADO.net Example.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\ADO.net Example\ADO.net Example\obj\Debug\ADO.net_Example.Form1.resources
+C:\Users\ACER\source\repos\ADO.net Example\ADO.net Example\obj\Debug\ADO.net_Example.Properties.Resources.resources
+C:\Users\ACER\source\repos\ADO.net Example\ADO.net Example\obj\Debug\ADO.net Example.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\ADO.net Example\ADO.net Example\obj\Debug\ADO.net Example.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ADO.net Example\ADO.net Example\obj\Debug\ADO.net Example.exe
+C:\Users\ACER\source\repos\ADO.net Example\ADO.net Example\obj\Debug\ADO.net Example.pdb

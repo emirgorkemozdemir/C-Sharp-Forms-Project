@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\bin\Debug\Alarm App Form.exe.config
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\bin\Debug\Alarm App Form.exe
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\bin\Debug\Alarm App Form.pdb
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\obj\Debug\Alarm App Form.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\obj\Debug\Alarm_App_Form.Form1.resources
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\obj\Debug\Alarm_App_Form.Properties.Resources.resources
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\obj\Debug\Alarm App Form.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\obj\Debug\Alarm App Form.exe
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\obj\Debug\Alarm App Form.pdb
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\bin\Debug\Interop.WMPLib.dll
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\obj\Debug\Interop.WMPLib.dll
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\source\repos\Alarm App Form\Alarm App Form\obj\Debug\Alarm App Form.csproj.ResolveComReference.cache
