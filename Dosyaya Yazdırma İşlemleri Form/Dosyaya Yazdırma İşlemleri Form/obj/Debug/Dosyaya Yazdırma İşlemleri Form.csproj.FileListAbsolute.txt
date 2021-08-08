@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Dosyaya Yazdırma İşlemleri Form\Dosyaya Yazdırma İşlemleri Form\bin\Debug\Dosyaya Yazdırma İşlemleri Form.exe.config
+C:\Users\ACER\source\repos\Dosyaya Yazdırma İşlemleri Form\Dosyaya Yazdırma İşlemleri Form\bin\Debug\Dosyaya Yazdırma İşlemleri Form.exe
+C:\Users\ACER\source\repos\Dosyaya Yazdırma İşlemleri Form\Dosyaya Yazdırma İşlemleri Form\bin\Debug\Dosyaya Yazdırma İşlemleri Form.pdb
+C:\Users\ACER\source\repos\Dosyaya Yazdırma İşlemleri Form\Dosyaya Yazdırma İşlemleri Form\obj\Debug\Dosyaya Yazdırma İşlemleri Form.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Dosyaya Yazdırma İşlemleri Form\Dosyaya Yazdırma İşlemleri Form\obj\Debug\Dosyaya_Yazdırma_İşlemleri_Form.Form1.resources
+C:\Users\ACER\source\repos\Dosyaya Yazdırma İşlemleri Form\Dosyaya Yazdırma İşlemleri Form\obj\Debug\Dosyaya_Yazdırma_İşlemleri_Form.Properties.Resources.resources
+C:\Users\ACER\source\repos\Dosyaya Yazdırma İşlemleri Form\Dosyaya Yazdırma İşlemleri Form\obj\Debug\Dosyaya Yazdırma İşlemleri Form.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Dosyaya Yazdırma İşlemleri Form\Dosyaya Yazdırma İşlemleri Form\obj\Debug\Dosyaya Yazdırma İşlemleri Form.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Dosyaya Yazdırma İşlemleri Form\Dosyaya Yazdırma İşlemleri Form\obj\Debug\Dosyaya Yazdırma İşlemleri Form.exe
+C:\Users\ACER\source\repos\Dosyaya Yazdırma İşlemleri Form\Dosyaya Yazdırma İşlemleri Form\obj\Debug\Dosyaya Yazdırma İşlemleri Form.pdb
