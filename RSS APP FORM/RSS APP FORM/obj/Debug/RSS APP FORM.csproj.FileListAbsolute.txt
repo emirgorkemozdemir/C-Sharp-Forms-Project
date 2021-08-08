@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\RSS APP FORM\RSS APP FORM\bin\Debug\RSS APP FORM.exe.config
+C:\Users\ACER\source\repos\RSS APP FORM\RSS APP FORM\bin\Debug\RSS APP FORM.exe
+C:\Users\ACER\source\repos\RSS APP FORM\RSS APP FORM\bin\Debug\RSS APP FORM.pdb
+C:\Users\ACER\source\repos\RSS APP FORM\RSS APP FORM\obj\Debug\RSS APP FORM.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\RSS APP FORM\RSS APP FORM\obj\Debug\RSS_APP_FORM.Form1.resources
+C:\Users\ACER\source\repos\RSS APP FORM\RSS APP FORM\obj\Debug\RSS_APP_FORM.Properties.Resources.resources
+C:\Users\ACER\source\repos\RSS APP FORM\RSS APP FORM\obj\Debug\RSS APP FORM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\RSS APP FORM\RSS APP FORM\obj\Debug\RSS APP FORM.exe
+C:\Users\ACER\source\repos\RSS APP FORM\RSS APP FORM\obj\Debug\RSS APP FORM.pdb
