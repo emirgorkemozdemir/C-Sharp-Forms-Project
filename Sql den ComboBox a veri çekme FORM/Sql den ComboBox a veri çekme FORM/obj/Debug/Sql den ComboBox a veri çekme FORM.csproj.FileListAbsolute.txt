@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\Sql den ComboBox a veri çekme FORM\Sql den ComboBox a veri çekme FORM\bin\Debug\Sql den ComboBox a veri çekme FORM.exe.config
+C:\Users\ACER\source\repos\Sql den ComboBox a veri çekme FORM\Sql den ComboBox a veri çekme FORM\bin\Debug\Sql den ComboBox a veri çekme FORM.exe
+C:\Users\ACER\source\repos\Sql den ComboBox a veri çekme FORM\Sql den ComboBox a veri çekme FORM\bin\Debug\Sql den ComboBox a veri çekme FORM.pdb
+C:\Users\ACER\source\repos\Sql den ComboBox a veri çekme FORM\Sql den ComboBox a veri çekme FORM\obj\Debug\Sql den ComboBox a veri çekme FORM.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Sql den ComboBox a veri çekme FORM\Sql den ComboBox a veri çekme FORM\obj\Debug\Sql_den_ComboBox_a_veri_çekme_FORM.Form1.resources
+C:\Users\ACER\source\repos\Sql den ComboBox a veri çekme FORM\Sql den ComboBox a veri çekme FORM\obj\Debug\Sql_den_ComboBox_a_veri_çekme_FORM.Properties.Resources.resources
+C:\Users\ACER\source\repos\Sql den ComboBox a veri çekme FORM\Sql den ComboBox a veri çekme FORM\obj\Debug\Sql den ComboBox a veri çekme FORM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Sql den ComboBox a veri çekme FORM\Sql den ComboBox a veri çekme FORM\obj\Debug\Sql den ComboBox a veri çekme FORM.exe
+C:\Users\ACER\source\repos\Sql den ComboBox a veri çekme FORM\Sql den ComboBox a veri çekme FORM\obj\Debug\Sql den ComboBox a veri çekme FORM.pdb

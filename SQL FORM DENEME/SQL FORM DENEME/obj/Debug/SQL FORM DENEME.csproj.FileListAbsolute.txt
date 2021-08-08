@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\SQL FORM DENEME\SQL FORM DENEME\bin\Debug\SQL FORM DENEME.exe.config
+C:\Users\ACER\source\repos\SQL FORM DENEME\SQL FORM DENEME\bin\Debug\SQL FORM DENEME.exe
+C:\Users\ACER\source\repos\SQL FORM DENEME\SQL FORM DENEME\bin\Debug\SQL FORM DENEME.pdb
+C:\Users\ACER\source\repos\SQL FORM DENEME\SQL FORM DENEME\obj\Debug\SQL FORM DENEME.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\SQL FORM DENEME\SQL FORM DENEME\obj\Debug\SQL_FORM_DENEME.Form1.resources
+C:\Users\ACER\source\repos\SQL FORM DENEME\SQL FORM DENEME\obj\Debug\SQL_FORM_DENEME.Properties.Resources.resources
+C:\Users\ACER\source\repos\SQL FORM DENEME\SQL FORM DENEME\obj\Debug\SQL FORM DENEME.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\SQL FORM DENEME\SQL FORM DENEME\obj\Debug\SQL FORM DENEME.exe
+C:\Users\ACER\source\repos\SQL FORM DENEME\SQL FORM DENEME\obj\Debug\SQL FORM DENEME.pdb

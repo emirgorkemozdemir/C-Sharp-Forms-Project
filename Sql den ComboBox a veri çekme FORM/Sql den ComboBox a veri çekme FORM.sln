@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql den ComboBox a veri çekme FORM", "Sql den ComboBox a veri çekme FORM\Sql den ComboBox a veri çekme FORM.csproj", "{4BD92C1F-D751-4D02-AAB2-096B84CBB0B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BD92C1F-D751-4D02-AAB2-096B84CBB0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD92C1F-D751-4D02-AAB2-096B84CBB0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD92C1F-D751-4D02-AAB2-096B84CBB0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD92C1F-D751-4D02-AAB2-096B84CBB0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A239BF65-AD0D-4438-9503-7F2F1D7B5B51}
+	EndGlobalSection
+EndGlobal
