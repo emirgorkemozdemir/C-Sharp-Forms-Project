@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\Mail App Form\Mail App Form\bin\Debug\Mail App Form.exe.config
+C:\Users\ACER\source\repos\Mail App Form\Mail App Form\bin\Debug\Mail App Form.exe
+C:\Users\ACER\source\repos\Mail App Form\Mail App Form\bin\Debug\Mail App Form.pdb
+C:\Users\ACER\source\repos\Mail App Form\Mail App Form\obj\Debug\Mail App Form.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Mail App Form\Mail App Form\obj\Debug\Mail_App_Form.Form1.resources
+C:\Users\ACER\source\repos\Mail App Form\Mail App Form\obj\Debug\Mail_App_Form.Properties.Resources.resources
+C:\Users\ACER\source\repos\Mail App Form\Mail App Form\obj\Debug\Mail App Form.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Mail App Form\Mail App Form\obj\Debug\Mail App Form.exe
+C:\Users\ACER\source\repos\Mail App Form\Mail App Form\obj\Debug\Mail App Form.pdb

@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\Link Label App FORM\Link Label App FORM\bin\Debug\Link Label App FORM.exe.config
+C:\Users\ACER\source\repos\Link Label App FORM\Link Label App FORM\bin\Debug\Link Label App FORM.exe
+C:\Users\ACER\source\repos\Link Label App FORM\Link Label App FORM\bin\Debug\Link Label App FORM.pdb
+C:\Users\ACER\source\repos\Link Label App FORM\Link Label App FORM\obj\Debug\Link Label App FORM.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Link Label App FORM\Link Label App FORM\obj\Debug\Link_Label_App_FORM.Form1.resources
+C:\Users\ACER\source\repos\Link Label App FORM\Link Label App FORM\obj\Debug\Link_Label_App_FORM.Properties.Resources.resources
+C:\Users\ACER\source\repos\Link Label App FORM\Link Label App FORM\obj\Debug\Link Label App FORM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Link Label App FORM\Link Label App FORM\obj\Debug\Link Label App FORM.exe
+C:\Users\ACER\source\repos\Link Label App FORM\Link Label App FORM\obj\Debug\Link Label App FORM.pdb

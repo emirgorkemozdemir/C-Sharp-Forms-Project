@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\bin\Debug\Media Player App FORM.exe.config
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\bin\Debug\Media Player App FORM.exe
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\bin\Debug\Media Player App FORM.pdb
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\obj\Debug\Media Player App FORM.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\obj\Debug\Media Player App FORM.csproj.ResolveComReference.cache
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\obj\Debug\Media_Player_App_FORM.Form1.resources
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\obj\Debug\Media_Player_App_FORM.Properties.Resources.resources
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\obj\Debug\Media Player App FORM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\obj\Debug\Media Player App FORM.exe
+C:\Users\ACER\source\repos\Media Player App FORM\Media Player App FORM\obj\Debug\Media Player App FORM.pdb
