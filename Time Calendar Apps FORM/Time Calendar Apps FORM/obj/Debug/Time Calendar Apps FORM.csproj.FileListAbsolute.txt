@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\Time Calendar Apps FORM\Time Calendar Apps FORM\bin\Debug\Time Calendar Apps FORM.exe.config
+C:\Users\ACER\source\repos\Time Calendar Apps FORM\Time Calendar Apps FORM\bin\Debug\Time Calendar Apps FORM.exe
+C:\Users\ACER\source\repos\Time Calendar Apps FORM\Time Calendar Apps FORM\bin\Debug\Time Calendar Apps FORM.pdb
+C:\Users\ACER\source\repos\Time Calendar Apps FORM\Time Calendar Apps FORM\obj\Debug\Time Calendar Apps FORM.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Time Calendar Apps FORM\Time Calendar Apps FORM\obj\Debug\Time_Calendar_Apps_FORM.Form1.resources
+C:\Users\ACER\source\repos\Time Calendar Apps FORM\Time Calendar Apps FORM\obj\Debug\Time_Calendar_Apps_FORM.Properties.Resources.resources
+C:\Users\ACER\source\repos\Time Calendar Apps FORM\Time Calendar Apps FORM\obj\Debug\Time Calendar Apps FORM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Time Calendar Apps FORM\Time Calendar Apps FORM\obj\Debug\Time Calendar Apps FORM.exe
+C:\Users\ACER\source\repos\Time Calendar Apps FORM\Time Calendar Apps FORM\obj\Debug\Time Calendar Apps FORM.pdb

@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\TrackBar FORM\TrackBar FORM\bin\Debug\TrackBar FORM.exe.config
+C:\Users\ACER\source\repos\TrackBar FORM\TrackBar FORM\bin\Debug\TrackBar FORM.exe
+C:\Users\ACER\source\repos\TrackBar FORM\TrackBar FORM\bin\Debug\TrackBar FORM.pdb
+C:\Users\ACER\source\repos\TrackBar FORM\TrackBar FORM\obj\Debug\TrackBar FORM.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\TrackBar FORM\TrackBar FORM\obj\Debug\TrackBar_FORM.Form1.resources
+C:\Users\ACER\source\repos\TrackBar FORM\TrackBar FORM\obj\Debug\TrackBar_FORM.Properties.Resources.resources
+C:\Users\ACER\source\repos\TrackBar FORM\TrackBar FORM\obj\Debug\TrackBar FORM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\TrackBar FORM\TrackBar FORM\obj\Debug\TrackBar FORM.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\TrackBar FORM\TrackBar FORM\obj\Debug\TrackBar FORM.exe
+C:\Users\ACER\source\repos\TrackBar FORM\TrackBar FORM\obj\Debug\TrackBar FORM.pdb
