@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\OFD FORM APP\OFD FORM APP\bin\Debug\OFD FORM APP.exe.config
+C:\Users\ACER\source\repos\OFD FORM APP\OFD FORM APP\bin\Debug\OFD FORM APP.exe
+C:\Users\ACER\source\repos\OFD FORM APP\OFD FORM APP\bin\Debug\OFD FORM APP.pdb
+C:\Users\ACER\source\repos\OFD FORM APP\OFD FORM APP\obj\Debug\OFD FORM APP.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\OFD FORM APP\OFD FORM APP\obj\Debug\OFD_FORM_APP.Form1.resources
+C:\Users\ACER\source\repos\OFD FORM APP\OFD FORM APP\obj\Debug\OFD_FORM_APP.Properties.Resources.resources
+C:\Users\ACER\source\repos\OFD FORM APP\OFD FORM APP\obj\Debug\OFD FORM APP.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\OFD FORM APP\OFD FORM APP\obj\Debug\OFD FORM APP.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OFD FORM APP\OFD FORM APP\obj\Debug\OFD FORM APP.exe
+C:\Users\ACER\source\repos\OFD FORM APP\OFD FORM APP\obj\Debug\OFD FORM APP.pdb
