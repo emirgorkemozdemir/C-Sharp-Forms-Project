@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Dama Tahtası FORM\Dama Tahtası FORM\bin\Debug\Dama Tahtası FORM.exe.config
+C:\Users\ACER\source\repos\Dama Tahtası FORM\Dama Tahtası FORM\bin\Debug\Dama Tahtası FORM.exe
+C:\Users\ACER\source\repos\Dama Tahtası FORM\Dama Tahtası FORM\bin\Debug\Dama Tahtası FORM.pdb
+C:\Users\ACER\source\repos\Dama Tahtası FORM\Dama Tahtası FORM\obj\Debug\Dama Tahtası FORM.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Dama Tahtası FORM\Dama Tahtası FORM\obj\Debug\Dama_Tahtası_FORM.Form1.resources
+C:\Users\ACER\source\repos\Dama Tahtası FORM\Dama Tahtası FORM\obj\Debug\Dama_Tahtası_FORM.Properties.Resources.resources
+C:\Users\ACER\source\repos\Dama Tahtası FORM\Dama Tahtası FORM\obj\Debug\Dama Tahtası FORM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Dama Tahtası FORM\Dama Tahtası FORM\obj\Debug\Dama Tahtası FORM.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Dama Tahtası FORM\Dama Tahtası FORM\obj\Debug\Dama Tahtası FORM.exe
+C:\Users\ACER\source\repos\Dama Tahtası FORM\Dama Tahtası FORM\obj\Debug\Dama Tahtası FORM.pdb

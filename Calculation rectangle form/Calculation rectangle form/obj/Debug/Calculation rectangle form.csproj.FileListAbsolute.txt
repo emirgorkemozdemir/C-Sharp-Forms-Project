@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\Calculation rectangle form\Calculation rectangle form\bin\Debug\Calculation rectangle form.exe.config
+C:\Users\ACER\source\repos\Calculation rectangle form\Calculation rectangle form\bin\Debug\Calculation rectangle form.exe
+C:\Users\ACER\source\repos\Calculation rectangle form\Calculation rectangle form\bin\Debug\Calculation rectangle form.pdb
+C:\Users\ACER\source\repos\Calculation rectangle form\Calculation rectangle form\obj\Debug\Calculation rectangle form.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Calculation rectangle form\Calculation rectangle form\obj\Debug\Calculation_rectangle_form.Form1.resources
+C:\Users\ACER\source\repos\Calculation rectangle form\Calculation rectangle form\obj\Debug\Calculation_rectangle_form.Properties.Resources.resources
+C:\Users\ACER\source\repos\Calculation rectangle form\Calculation rectangle form\obj\Debug\Calculation rectangle form.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Calculation rectangle form\Calculation rectangle form\obj\Debug\Calculation rectangle form.exe
+C:\Users\ACER\source\repos\Calculation rectangle form\Calculation rectangle form\obj\Debug\Calculation rectangle form.pdb

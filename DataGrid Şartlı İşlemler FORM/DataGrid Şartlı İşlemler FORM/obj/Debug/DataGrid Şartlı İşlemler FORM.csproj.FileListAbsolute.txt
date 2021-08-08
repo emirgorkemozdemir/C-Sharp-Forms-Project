@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\DataGrid Şartlı İşlemler FORM\DataGrid Şartlı İşlemler FORM\bin\Debug\DataGrid Şartlı İşlemler FORM.exe.config
+C:\Users\ACER\source\repos\DataGrid Şartlı İşlemler FORM\DataGrid Şartlı İşlemler FORM\bin\Debug\DataGrid Şartlı İşlemler FORM.exe
+C:\Users\ACER\source\repos\DataGrid Şartlı İşlemler FORM\DataGrid Şartlı İşlemler FORM\bin\Debug\DataGrid Şartlı İşlemler FORM.pdb
+C:\Users\ACER\source\repos\DataGrid Şartlı İşlemler FORM\DataGrid Şartlı İşlemler FORM\obj\Debug\DataGrid Şartlı İşlemler FORM.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\DataGrid Şartlı İşlemler FORM\DataGrid Şartlı İşlemler FORM\obj\Debug\DataGrid_Şartlı_İşlemler_FORM.Form1.resources
+C:\Users\ACER\source\repos\DataGrid Şartlı İşlemler FORM\DataGrid Şartlı İşlemler FORM\obj\Debug\DataGrid_Şartlı_İşlemler_FORM.Properties.Resources.resources
+C:\Users\ACER\source\repos\DataGrid Şartlı İşlemler FORM\DataGrid Şartlı İşlemler FORM\obj\Debug\DataGrid Şartlı İşlemler FORM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\DataGrid Şartlı İşlemler FORM\DataGrid Şartlı İşlemler FORM\obj\Debug\DataGrid Şartlı İşlemler FORM.exe
+C:\Users\ACER\source\repos\DataGrid Şartlı İşlemler FORM\DataGrid Şartlı İşlemler FORM\obj\Debug\DataGrid Şartlı İşlemler FORM.pdb
